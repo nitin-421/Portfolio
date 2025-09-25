@@ -22,12 +22,12 @@ const SelfProjects = () => {
     },
     {
       id: 3,
-      title: "ChatBot",
+      title: "Virtual WhiteBoard",
       description:
-        "An AI chatbot with real-time interaction like ChatGPT, featuring user login/signup, dark-light mode toggle, typing animation, message history, and a smooth, responsive chat interface.",
-      skills: ["ReactJs", "Tailwind", "Javascript", "APIs"],
-      githubLink: "https://github.com/nitin-421",
-      liveDemoLink: "https://chat-bot-six-sand.vercel.app",
+        " A collaborative whiteboard app with real-time drawing, text, and shape tools. It supports multiple users, saving/loading boards, and a clean, intuitive interface.",
+      skills: ["ReactJs", "React-Router", "Javascript", "Context API"],
+      githubLink: "https://github.com/nitin-421/WhiteBoard",
+      liveDemoLink: "https://white-board-delta-sandy.vercel.app/",
     },
     {
       id: 4,

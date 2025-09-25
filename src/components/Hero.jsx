@@ -4,7 +4,7 @@ import { BsCloudDownload } from "react-icons/bs";
 const Hero = () => {
   const handleDownloadResume = () => {
     const resumeUrl =
-      "https://drive.google.com/file/d/1yKt4nQPkN70POLRNzXUq_Jg56TcazqPQ/view?usp=drive_link";
+      "https://drive.google.com/file/d/1FDz7gXJs0ENF-yJWE019X7UCtKeJ6HIY/view?usp=drive_link";
 
     const link = document.createElement("a");
     link.href = resumeUrl;
